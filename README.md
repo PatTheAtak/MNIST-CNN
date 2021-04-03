@@ -1,1 +1,1 @@
-# MNIST-CNN
+# Convolutional Neural Network for MNIST Image Classificaion
